@@ -11,7 +11,10 @@
     "url": "git://github.com/xudafeng/xpackage.git"
   },
   "dependencies": {
-    "npm-update": "^1.0.6"
+    "npm-update": "^1.0.6",
+    "shelljs": "^0.7.8",
+    "tar": "^3.1.5",
+    "xutil": "^1.0.5"
   },
   "devDependencies": {
     "co-mocha": "*",
